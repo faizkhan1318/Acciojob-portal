@@ -341,71 +341,7 @@ background: #DADADA;
     height: 22px;
     flex-shrink: 0;
 }
-/* .courses{
-    padding: 70px 0px;
-    background-color: #ecf8ff;
-}
-.course-heading>h6, .course-heading>h2{
-    text-align: center;
-}
-.left-course{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
-}
-.Tag {
-    position: relative;
-    top: -20px;
-    width: auto;
-    height: auto;
-    display: inline-flex;
-    padding: 6px 15px 0px 15px;
-    align-items: flex-start;
-    gap: 18px;
-    border-radius: 7px;
-    border: 2px solid #2F80ED;
-    background: var(--primaryskyblue, #2F80ED);
-}
-.beginner, .intermediate{
-    display: flex;
-    justify-content: center;
-    
-    width: 498px;
-    height: 563px;
-    flex-direction: column;
-    align-items: center;
-    background-color: white;
-    margin: 15px 10px;
-    border-radius: 10px;
-    padding: 10px 0;
-}
 
-.beginner-head>p .intermediate.head>p{
-    text-align: center;
-}
-.beginner-head, .intermediate-head{
-    width: 300px;
-}
-.tables-details{
-    width: 500px;
-}
-tr, td{
-    align-items: center;
-    justify-content: center;
-    font-size: 14px;
-    padding: 20px 20px;
-}
-tr{
-    border-bottom: 2px solid black;
-}
-.p-details{
-    opacity: 0.5;
-    font-size: 13px;
-    padding: 10px 0;
-    
-} */
-/* section-3 */
 .section-3{
     margin: 30px 0;
 }
